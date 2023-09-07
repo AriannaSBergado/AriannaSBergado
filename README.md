@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AriannaSBergado
 - 👀 I’m a Computer Engineering major. 
-- 🌱 I’m currently enrolled at San Diego State.
+- 🌱 I’m currently enrolled at San Diego State University.
 - 📫 How to reach me: abergado6965@sdsu.edu 
 
 <!---
